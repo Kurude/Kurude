@@ -1,54 +1,34 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+[README.md](https://github.com/Kurude/files/31058601/README.md)
+<a href="#"><img src="https://your-link.com" /></a> 👋
 
-###
+# Hi, I'm Rudrakash Kurude 
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+🚀 Python & AI/ML Intern | Final Year Diploma Computer Engineering Student | Aspiring AI Engineer
 
-###
+I enjoy building impactful software projects, exploring Artificial Intelligence, and continuously improving my development skills. My goal is to become a professional AI Engineer while contributing to open-source projects and building innovative applications.
 
-<h1 align="center">hey there 👋</h1>
+- 🌱 Working on: AI Web Applications , Full Stack Projects & RAG Based LLM Projects 
+- 📚 Learning: • Machine Learning • • Deep Learning • • Advanced Robotics •
+- 🤝 Open to collaborate on: AI/ML, Python & Open Source Projects
+- 💬 Ask me about: Python, React, Git & GitHub , FastAPI , Generative AI 
+- 📫 Email: rudrakashkurude@gmail.com
+- ⚡ Goal: Building real-world projects that solve real-world problems.
 
-###
+## 🌐 Socials:
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rudrakash-kurude-37a32b409/?trk=opento_sprofile_topcard))
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kurude&show_icons=true&theme=dark&count_private=true)
 
-<p align="left">I'm Rudrakash Kurude from Maharashtra,India<br><br>- 🔭 I’m working as Self Developer <br>- 📚 I'm currently learning  LLM models and automation <br>- ⚡ In my free time I developes 2D games in Unity engine</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats : Student that making ideas to invasion</h3>
-
-###
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurude&layout=compact&theme=dark)
